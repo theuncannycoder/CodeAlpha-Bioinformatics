@@ -1,4 +1,5 @@
 Bioinformatics Internship Projects – CodeAlpha
+
 Overview:
 This repository contains the work completed as part of the Bioinformatics Internship Program by CodeAlpha, focusing on practical applications of computational biology, sequence analysis, and structural bioinformatics.
 The internship provided hands-on experience in analyzing biological data, performing sequence alignment, and visualizing protein structures using modern bioinformatics tools.
